@@ -1,0 +1,51 @@
+[
+    {
+        "id" : "0",
+        "name": "Academia - Education Management System ",
+        "image": "https://i.ibb.co.com/Z16tBvJr/academia-386c1-web-app.png",
+        "tech_stack": [
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Tailwind CSS"
+        ],
+        "description": "Acadmia, a platform where students can explore and purchase courses while teachers can upload and manage their educational content. Built for seamless learning and teaching experiences, Academio provides a structured and user-friendly environment for online education.",
+        "live_link": "https://academia-386c1.web.app/",
+        "github_link": "https://github.com/alpharabbit9/Academio-client-public",
+        "challenges": "Handling real-time adoption status updates and user authentication using Firebase.",
+        "future_plans": "Integrating a chat system for students, adding AI-powered teacher recommendations."
+    },
+    {
+        "id" : "1",
+        "name": "ReclaimIt - Find your lost things",
+        "image": "https://i.ibb.co.com/bj4XvhJZ/reclaimit-e194f-web-app.png",
+        "tech_stack": [
+            "React.js",
+            "Node.js",
+            "MongoDB",
+            "Firebase Authentication"
+        ],
+        "description": "ReclaimIT  A Lost and Found** platform where users can report lost items, browse found items, and connect with others to reclaim their belongings.",
+        "live_link": "https://reclaimit-e194f.web.app/",
+        "github_link": "https://github.com/alpharabbit9/reclaimIt-client-public",
+        "challenges": "Implementing real-time class scheduling and role-based access control.",
+        "future_plans": "Introducing AI-based personalized learning paths and mobile app development."
+    },
+    {
+        "id" : "2",
+        "name": "shareTheWarmth - Donate Winter Cloths",
+        "image": "https://i.ibb.co.com/HTwRfvNP/sharewarmth-ffadc-web-app.png",
+        "tech_stack": [
+            "React.js",
+            "Node.js",
+            "MongoDB",
+            "Firebase Authentication"
+        ],
+        "description": "shareTheWarmth, a MERN stack web application designed to help people donate and receive winter clothes.",
+        "live_link": "https://sharewarmth-ffadc.web.app/",
+        "github_link": "https://github.com/alpharabbit9/shareTheWarmth-public",
+        "challenges": "Implementing real-time class scheduling and role-based access control.",
+        "future_plans": "Introducing AI-based personalized learning paths and mobile app development."
+    }
+]
