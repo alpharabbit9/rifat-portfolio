@@ -1,5 +1,6 @@
 import { Link } from "react-scroll";
 
+
 const Navbar = () => {
   return (
     <div className="navbar bg-black relative">
@@ -76,7 +77,7 @@ const Navbar = () => {
       </div>
 
       <div className="navbar-end">
-        <a className="btn bg-red-700">Resume</a>
+        <a href="/public/RifatResume.pdf" download={"My_resume.pdf"} className="btn bg-red-700">Resume</a>
       </div>
     </div>
   );

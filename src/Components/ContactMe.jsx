@@ -22,9 +22,9 @@ const ContactMe = () => {
 
                 <div className="flex justify-between mt-6">
                    <a href="https://www.facebook.com/share/14mUHNW4Ca/?mibextid=wwXIfr" target="_blank"> <FaFacebook  className="text-pink-900"></FaFacebook></a>
-                    <a href="https://github.com/alpharabbit9"><FaGithub className="text-pink-900"></FaGithub></a>
-                   <a href="www.linkedin.com/in/rifat-ahmed-05a5742b6"> <FaLinkedin className="text-pink-900"></FaLinkedin></a>
-                   <a href="https://www.instagram.com/alpha_rabbit?igsh=MWh5dnFkNWZ4bTRoYg%3D%3D&utm_source=qr"> <FaInstagram className="text-pink-900"></FaInstagram></a>
+                    <a href="https://github.com/alpharabbit9" target="_blank"><FaGithub className="text-pink-900"></FaGithub></a>
+                   <a href="www.linkedin.com/in/rifat-ahmed-05a5742b6" target="_blank"> <FaLinkedin className="text-pink-900"></FaLinkedin></a>
+                   <a href="https://www.instagram.com/alpha_rabbit?igsh=MWh5dnFkNWZ4bTRoYg%3D%3D&utm_source=qr" target="_blank"> <FaInstagram className="text-pink-900"></FaInstagram></a>
                 </div>
             </div>
             <div>
